@@ -16,6 +16,9 @@
     "react-select-us-states": "^0.1.2",
     "styled-components": "^4.2.0"
   },
+  "devDependencies": {
+    "react-scripts":"2.1.8"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
